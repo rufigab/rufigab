@@ -4,17 +4,23 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate pacman graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: rufigab
-          theme: dark
 
-      - name: Push pacman graph
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
