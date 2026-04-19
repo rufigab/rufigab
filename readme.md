@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "imgs/github-header-banner.png"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-rufino-8b7818366/" target="_blank">
@@ -15,9 +15,10 @@
 
 <br>
 
-<h2 align="center">  <em>Sobre eu</em></h2>
+<h2 align="center"> <img src="imgs/user.svg" width="20"/> <em>Sobre eu </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="imgs/lain3.webp" width="250" align="right" style="margin-left: 25px;" />
+<br/>
 
 <br/>
 
@@ -34,7 +35,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="imgs/gear.svg" width="25"/> <em> Tecnologias </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,9 +47,9 @@
 
 <br/>
 
-<h2 align="center""> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center""> <img src="imgs/chart.svg" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" width="100%"/>
 
 </div>
 
