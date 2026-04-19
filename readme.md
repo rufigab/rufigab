@@ -1,3 +1,4 @@
+<!--> cabeçalho <-->
 <img src = "imgs/github-header-banner.png"/>
 
 <p align="center">
@@ -12,7 +13,7 @@
   </a>
 </p>
 
-
+<!-- sobre eu -->
 <br>
 
 <h2 align="center"> <img src="imgs/user.svg" width="20"/> <em>Sobre eu </em></h2>
@@ -36,24 +37,26 @@
 <br/>
 <br/>
 <h2 align="center"> <img src="imgs/gear.svg" width="25"/> <em> Tecnologias </em> </h2>
-
+<!-- tecnologias  -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logoColor=white" />
+  
 </p>
 
 <br/>
-
-<h2 align="center""> <img src="imgs/chart.svg" width="25"/> <em> Statistics </em> </h2>
+<!-- estatisticas -->
+<h2 align="center""> <img src="imgs/chart.svg" width="25"/> <em> Estatisticas </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" width="100%"/>
 
 
-
-<h2 align="center">🕹️ Contributions</h2>
+<!-- contribuições (pacman) -->
+<h2 align="center"> <img src="imgs/contributions.svg" width= 25> Contribuições </h2>
 
 <p align="center">
 <picture>
