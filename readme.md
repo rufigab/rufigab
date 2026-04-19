@@ -1,4 +1,4 @@
-<!--> cabeçalho <-->
+<!-- cabeçalho -->
 <img src = "imgs/github-header-banner.png"/>
 
 <p align="center">
