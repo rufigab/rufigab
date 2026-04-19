@@ -51,6 +51,14 @@
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" width="100%"/>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
 
