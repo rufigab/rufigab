@@ -41,3 +41,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rufigab&amp;theme=github_dark" alt="Gráfico de contribuições de Gabriel Rufino no GitHub" width="100%" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg" alt="Animação da cobrinha comendo as contribuições do GitHub" width="100%" />
+  </picture>
+</p>
