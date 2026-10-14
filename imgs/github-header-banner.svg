@@ -20,29 +20,24 @@
   </defs>
   <rect width="1200" height="360" rx="22" fill="url(#background)" />
   <rect width="1200" height="360" rx="22" fill="url(#grid)" />
-  <circle cx="1030" cy="95" r="145" fill="#7556df" opacity=".25" filter="url(#glow)" />
-  <circle cx="1080" cy="280" r="125" fill="#27bfd3" opacity=".17" filter="url(#glow)" />
-  <g fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="2" opacity=".56">
-    <path d="M836 67h92a18 18 0 0 1 18 18v21h62" />
-    <path d="M892 154h55a18 18 0 0 0 18-18V91" />
-    <path d="M832 262h120a18 18 0 0 0 18-18v-32h80" />
-    <path d="M1002 151h112a18 18 0 0 1 18 18v48" />
-    <path d="M1085 85v37a18 18 0 0 0 18 18h43" />
+  <circle cx="1070" cy="95" r="145" fill="#7556df" opacity=".25" filter="url(#glow)" />
+  <circle cx="1070" cy="280" r="125" fill="#27bfd3" opacity=".17" filter="url(#glow)" />
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="2" opacity=".42">
+    <path d="M1040 72h75a16 16 0 0 1 16 16v20h36" />
+    <path d="M1060 266h72a16 16 0 0 0 16-16v-24h28" />
+    <path d="M1135 143v27a16 16 0 0 0 16 16h29" />
   </g>
   <g fill="#111426" stroke="url(#accent)" stroke-width="2">
-    <circle cx="836" cy="67" r="5" />
-    <circle cx="1008" cy="106" r="5" />
-    <circle cx="892" cy="154" r="5" />
-    <circle cx="832" cy="262" r="5" />
-    <circle cx="1050" cy="212" r="5" />
-    <circle cx="1133" cy="217" r="5" />
-    <circle cx="1085" cy="85" r="5" />
-    <circle cx="1140" cy="140" r="5" />
+    <circle cx="1040" cy="72" r="5" />
+    <circle cx="1167" cy="108" r="5" />
+    <circle cx="1060" cy="266" r="5" />
+    <circle cx="1176" cy="226" r="5" />
+    <circle cx="1135" cy="143" r="5" />
+    <circle cx="1180" cy="186" r="5" />
   </g>
-  <rect x="72" y="66" width="46" height="4" rx="2" fill="url(#accent)" />
-  <text x="72" y="157" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Bem-vindo ao meu GitHub!</text>
-  <text x="75" y="207" fill="#d7d7e8" font-family="Segoe UI, Arial, sans-serif" font-size="24">Gabriel Rufino</text>
-  <circle cx="258" cy="199" r="3" fill="#a78bfa" />
-  <text x="278" y="207" fill="#b9bad0" font-family="Segoe UI, Arial, sans-serif" font-size="21">Estudante de Engenharia de Software</text>
-  <text x="75" y="265" fill="#a8a7c3" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2">APRENDENDO · CONSTRUINDO · EVOLUINDO</text>
+  <rect x="577" y="66" width="46" height="4" rx="2" fill="url(#accent)" />
+  <text x="600" y="151" text-anchor="middle" fill="#f8fafc" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1">Bem-vindo ao meu GitHub!</text>
+  <text x="600" y="205" text-anchor="middle" fill="#d7d7e8" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="25">Gabriel Rufino</text>
+  <text x="600" y="244" text-anchor="middle" fill="#b9bad0" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="19">Estudante de Engenharia de Software</text>
+  <text x="600" y="290" text-anchor="middle" fill="#a8a7c3" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2">APRENDENDO · CONSTRUINDO · EVOLUINDO</text>
 </svg>
