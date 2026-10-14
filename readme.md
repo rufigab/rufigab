@@ -1,72 +1,44 @@
-<!-- cabeçalho -->
-<img src = "imgs/github-header-banner.png"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-rufino-8b7818366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)" />
-  </a>
-  <a href="https://open.spotify.com/user/rdmn3ufvaczpv5qz21otctduw?si=2238d3010b1645be">
-    <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gab.rufi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<!-- sobre eu -->
-<br>
-
-<h2 align="center"> <img src="imgs/user.svg" width="20"/> <em>Sobre eu </em></h2>
-
-<img src="imgs/lain3.webp" width="250" align="right" style="margin-left: 25px;" />
-<br/>
-
-<br/>
-
-<p>
-  Ola! Meu nome é <em><b> Gabriel Rufino</b></em>, e sou estudante de Engenharia de Software. Tenho interesse em tecnologia e resolução de problemas, e estou constantemente buscando evoluir minhas habilidades na área de desenvolvimento. Atualmente, estou trabalhando em projetos práticos para consolidar meus conhecimentos e adquirir experiência.
-</p>
-
-
-<br/>
-
-<p align="center">
-   <img src="imgs/img3.png" width="15"/>   <em><b>  Aluno de Engenharia de Software na Univassouras </b></em> <br/>
-</p>
-
-<br/>
-<br/>
-<h2 align="center"> <img src="imgs/gear.svg" width="25"/> <em> Tecnologias </em> </h2>
-<!-- tecnologias  -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logoColor=white" />
-  
-</p>
-
-<br/>
-<!-- estatisticas -->
-<h2 align="center""> <img src="imgs/chart.svg" width="25"/> <em> Estatisticas </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" width="100%"/>
-
-
-<!-- contribuições (pacman) -->
-<h2 align="center"> <img src="imgs/contributions.svg" width= 25> Contribuições </h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg">
-</picture>
-</p>
-
+<div align="center">
+  <img src="imgs/github-header-banner.svg" alt="Bem-vindo ao GitHub de Gabriel Rufino, estudante de Engenharia de Software" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-rufino-8b7818366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gab.rufi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://open.spotify.com/user/rdmn3ufvaczpv5qz21otctduw">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
 
+## Oi, eu sou o Gabriel 👋
 
+Sou estudante de **Engenharia de Software na Univassouras**, no Brasil. Tenho interesse em tecnologia e desenvolvimento de software, e gosto de transformar o que estudo em projetos práticos enquanto continuo aprendendo.
+
+## Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## Minha atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade de Gabriel Rufino no GitHub" width="100%" />
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg" alt="Animação das contribuições de Gabriel no GitHub" width="100%" />
+  </picture>
+</p>
