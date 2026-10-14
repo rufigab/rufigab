@@ -39,7 +39,7 @@
 <h2 align="center">Gráfico de contribuições</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rufigab&amp;theme=github_dark" alt="Gráfico de contribuições de Gabriel Rufino no GitHub" width="100%" />
+  <img src="https://raw.githubusercontent.com/rufigab/rufigab/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Gráfico de contribuições de Gabriel Rufino no GitHub" width="100%" />
 </p>
 
 <p align="center">
