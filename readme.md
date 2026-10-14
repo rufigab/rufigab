@@ -16,7 +16,11 @@
 
 ## Oi, eu sou o Gabriel 👋
 
+<img src="imgs/lain3.webp" alt="Arte animada de Serial Experiments Lain" width="180" align="right" />
+
 Sou estudante de **Engenharia de Software na Univassouras**, no Brasil. Tenho interesse em tecnologia e desenvolvimento de software, e gosto de transformar o que estudo em projetos práticos enquanto continuo aprendendo.
+
+<br clear="right" />
 
 ## Tecnologias e ferramentas
 
@@ -29,16 +33,12 @@ Sou estudante de **Engenharia de Software na Univassouras**, no Brasil. Tenho in
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Minha atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rufigab&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade de Gabriel Rufino no GitHub" width="100%" />
-</div>
+## Contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph.svg" alt="Animação das contribuições de Gabriel no GitHub" width="100%" />
+    <img src="https://raw.githubusercontent.com/rufigab/rufigab/output/pacman-contribution-graph-dark.svg" alt="Animação das contribuições de Gabriel no GitHub" width="100%" />
   </picture>
 </p>
